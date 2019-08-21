@@ -5,13 +5,13 @@
 # Adding your figma personal token to a .env file as FIGMATOKEN is highly recommended
 # Values in the .env file take precedence over the figma token here
 figmaconfig:
-  token: xxxx-xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx
+  token: 19285-d26169d6-6b4a-41f6-9112-8b3ae1ddc081
   scale: 2
   format: png
   figmaurls: true
   home: true
   documents:
-    - document: aPDeXozOjVEEBVnRGP3gsm5B
+    - document: F3R9dZQTgbFBQMLAeOvRdT
       category: Components
 
 # -----------------------------------------------------------
